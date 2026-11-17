@@ -1,5 +1,4 @@
 version: STSv1
 mode: enforce
 mx: mail.geofb.com
-mx: mail2.geofb.com
 max_age: 864000
